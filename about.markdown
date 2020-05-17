@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Who I am
 permalink: /about/
@@ -57,4 +57,4 @@ During my junior year of college, I worked as a summer intern at CNN mainly crea
 #### Other languages I have exposure to
 * Python
 * C/C++
-* HTML/CSS
+* HTML/CSS -->
